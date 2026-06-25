@@ -1,0 +1,7 @@
+discord.py
+fastapi
+uvicorn[standard]
+yt-dlp
+boto3
+python-dotenv
+aiohttp
